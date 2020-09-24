@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill information by the error's order</description>
+   <name>Fill by Error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46576f12-a66d-48e2-a8f9-51ce93c855d7</testCaseGuid>
+</TestCaseEntity>

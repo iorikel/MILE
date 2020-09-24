@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill the full name field with other characters besides alphabeth</description>
+   <name>Full Name_Format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53438dd3-0966-45dc-acb9-f391a54c3eb4</testCaseGuid>
+</TestCaseEntity>
